@@ -1,0 +1,24 @@
+<template>    
+     <div class="card-body">
+        <h1 class="card-title pricing-card-title">$0 <small class="text-muted">/ mo</small></h1>
+        <ul class="list-unstyled ">
+          <li>10 users included</li>
+          <li>2 GB of storage</li>
+          <li>Email support</li>
+          <li>Help center access</li>
+        </ul>
+        <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
+      </div>
+</template>
+
+<script>
+    export default{
+        name: "RightNav",
+    }
+</script>
+
+<style>
+
+</style>
+
+
